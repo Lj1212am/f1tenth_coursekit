@@ -14,7 +14,7 @@ Lecture 10 - Pure Pursuit
 
 	.. raw:: html
 
-		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/1okAthJhUgLJkwBADgITu6u_vVhSPggTsWVHbWORIQ2o/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+		<iframe width="700" height="500" src="https://docs.google.com/presentation/d/10-Ut90XyuQRxlZUWPcLqcqjQhuonXUhLcN6FidlXi5o/edit?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 **Video:**
